@@ -1,11 +1,7 @@
----
-title: "Java Collection Examples"
+```
+title: Java Collection Examples
 date: 2022-08-18 21:22:30
-draft: true
-tags: [Java, Collection]
-categories:
-- [Java, Collection]
----
+```
 
 
 > 在使用PHP的Laravel框架时候，我们通常可以很容易地表达一些业务， keyBy("a")：比如将一个map按照字段a排序。pluck("a")：根据指定key获取对应的value然后组装成一个list， 数据去重 unique()。那么这些方法在Java里面应该怎么写呢
